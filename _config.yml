@@ -20,10 +20,10 @@ timezone: America/Guatemala
 
 title:  # the main title
 
-tagline: Ethical Hacker | Red Team # it will display as the sub-title
+tagline:  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Ethical Hacker | Red Team
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://Dogthow.github.io"
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
