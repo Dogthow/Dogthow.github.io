@@ -12,7 +12,11 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'    # icons powered by <https://fontawesome.com/>
-  url:  ''                   # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/antony-l%C3%B3pez-aka-dogthow-7b4a06278/'                   # Fill with your Linkedin homepage
+
+- type: hackthebox
+  icon: 'fas fa-cube'
+  url:  'https://app.hackthebox.com/users/1559388'
 
 #- type: rss
 #  icon: "fas fa-rss"
