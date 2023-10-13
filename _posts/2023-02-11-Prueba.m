@@ -1,6 +1,6 @@
 ---
-title: En construcióm
+title: En construción
 categories: [ Linux ]
 tags: [HackTheBox]
 ---
-En construcióm
+En construción
